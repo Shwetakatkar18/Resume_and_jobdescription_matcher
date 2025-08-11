@@ -1,4 +1,4 @@
-Must have skills: Python AND Django/Flask/FastAPI
+ have skills: Python AND Django/Flask/FastAPI
 
 AlphaSense (One of Uplers' Clients) is looking for:
 
